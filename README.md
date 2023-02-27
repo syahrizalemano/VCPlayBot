@@ -28,7 +28,7 @@ Made with Python3
 
 Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
 
-
+<p align="center"><a href="https://github.com/syahrizalemano/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20Di%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
